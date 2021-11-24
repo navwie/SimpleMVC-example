@@ -10,6 +10,10 @@ DemoJavascriptAsset::add();
 </div>
 <div class="row">
     <div class="col ">
-      <p class="lead"> Добро пожаловать в SimpleMVC! </p>
+      <p class="lead"> Добро пожаловать в SimpleMVC!
+      Мі раді вас видеть</p>
+        <p class="lead"> Добро пожаловать в SimpleMVC!
+            Мі раді вас видеть</p>
+
     </div>
 </div>
