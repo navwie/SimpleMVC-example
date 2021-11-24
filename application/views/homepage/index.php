@@ -12,5 +12,8 @@ DemoJavascriptAsset::add();
     <div class="col ">
       <p class="lead"> Добро пожаловать в SimpleMVC!
       Мі раді вас видеть</p>
+        <p class="lead"> Добро пожаловать в SimpleMVC!
+            Мі раді вас видеть</p>
+
     </div>
 </div>
